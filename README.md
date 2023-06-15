@@ -16,11 +16,15 @@ About me
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](11966259736)
 
 ![Michilini GitHub stats](https://github-readme-stats.vercel.app/api?username=Michilini88&show_icons=true&theme=tokyonight)
+<br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michilini88&layout=compact)
+
 
 ## Tecnologias e Habilidades
 
 <div style=display: inline_block><br/>
-    <img aling="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+     <img aling="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
 <div style=display: inline_block><br/>
     <img aling="center" alt="mondodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
