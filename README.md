@@ -5,7 +5,7 @@ About me
 
  📈 programming student
 
- 🚀 Future BackEnd developer from 🇧🇷 
+ 🚀 
 
  ❤️ Apaixonado por Tecnologia, educação e por mudar a vida das pessoal através da programação.
 
