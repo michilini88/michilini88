@@ -1,15 +1,13 @@
 ### Olá! Eu sou o David Michilini ✋
-<div style=display: inline_block><br/>
+ <div style=display: inline_block><br/>
 About me
-<div style=display: inline_block><br/>
+ <div style=display: inline_block><br/>
 
  📈 programming student
 
  🚀 
 
- ❤️ Apaixonado por Tecnologia, educação e por mudar a vida das pessoal através da programação.
-
- <br/>
+  <br/>
 
 [![(Linkedin)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-michilini-jr-b3b932157/)
 [![(Email)](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](http:michilini88@gmail.com)
@@ -50,8 +48,8 @@ About me
     <img aling="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
  </div>
 
-<div style=display: inline_block><br/>
+""<div style=display: inline_block><br/>
     <img aling="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
- </div>
+ </div>""
 
 
