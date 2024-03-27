@@ -48,8 +48,6 @@ About me
     <img aling="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
  </div>
 
-""<div style=display: inline_block><br/>
-    <img aling="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
- </div>""
+
 
 
